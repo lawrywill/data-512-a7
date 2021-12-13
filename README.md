@@ -3,10 +3,10 @@
 ## Introduction
 The analysis documented in this repository focuses on how Cuyahoga County, Ohio has been disrupted by the pandemic. In this reposistory you'll find the results of the analysis, as well as all of the documentation and code necessary for reproducing the analysis. This analysis was produced as a series of assignments for DATA512 at the University of Washington:
 
-* __Assignment_A4__: A collaborative analysis in which students in this class examined the impact of masking requirements on the spread of COVID-19 in a specific US county (in my case, Cuyahoga county, Ohio)
-* __Assignment_A5__: An extension plan for A4. My extension plan focused on the impact of COVID-19 on unemployment in Cuyahoga.
-* __Assignment_A6__: A presentation of the results of the analysis proposed in the extension plan.
-* __Assignment_A7__: A final report comprehensively documenting the entire process
+* __Assignment A4__: A collaborative analysis in which students in this class examined the impact of masking requirements on the spread of COVID-19 in a specific US county (in my case, Cuyahoga county, Ohio)
+* __Assignment A5__: An extension plan for A4. My extension plan focused on the impact of COVID-19 on unemployment in Cuyahoga.
+* __Assignment A6__: A presentation of the results of the analysis proposed in the extension plan.
+* __Assignment A7__: A final report comprehensively documenting the entire process
 
 In order to understand the full scope and results of what was analyzed, I recommend starting with the 'Final Report' pdf.
 
@@ -27,12 +27,12 @@ Explanation and links for data sources are noted below. A few data sources were 
 
 ## Description of files and folders in this repository
 * __LICENSE__: MIT license for this project
-* __Common_Analysis.pdf__: (Also known as Assignment A4) Analysis done in collaboration with the rest of the class that looks into whether masking requirements had an impact on the spread of COVID-19 in Cuyahoga
-* __Extension_Plan.pdf__: (Also known as Assignment A5) Plan that details how the 'Common Analysis' was extended to answer questions about the COVID-19 impact on unemployment in Cuyahoga
-* __Final_Presentation.pdf__: (Also known as Assignment A6) Results from the 'Final Report' summarized in a 12-slide presentation format
-* __Final_Report.pdf__: (Also known as Assignment A7) Comprehensive report, based on the 'Common Analysis' and the 'Extension Plan', of the impact of mask requirements on COVID-19, and the impact of COVID-19 on unemployment, in Cuyahoga. This report contains an explanation of methodologies, results, background sources, and data used.
+* __Common Analysis.pdf__: (Also known as Assignment A4) Analysis done in collaboration with the rest of the class that looks into whether masking requirements had an impact on the spread of COVID-19 in Cuyahoga
+* __Extension Plan.pdf__: (Also known as Assignment A5) Plan that details how the 'Common Analysis' was extended to answer questions about the COVID-19 impact on unemployment in Cuyahoga
+* __Final Presentation.pdf__: (Also known as Assignment A6) Results from the 'Final Report' summarized in a 12-slide presentation format
+* __Final Report.pdf__: (Also known as Assignment A7) Comprehensive report, based on the 'Common Analysis' and the 'Extension Plan', of the impact of mask requirements on COVID-19, and the impact of COVID-19 on unemployment, in Cuyahoga. This report contains an explanation of methodologies, results, background sources, and data used.
 * __hcds-a7-covid.ipynb__: Jupyter notebook containing all of the code used for the 'Final Report' (and by extension, the 'Common Analysis').
-*__US_County_Assignments.csv__: CSV file containing county assignments for this analysis. My assignment was Cuyahoga county, Ohio. This file is used by hcds-a7-covid.ipynb to determine which county to use when filtering the other data sources.
+* __US County Assignments.csv__: CSV file containing county assignments for this analysis. My assignment was Cuyahoga county, Ohio. This file is used by hcds-a7-covid.ipynb to determine which county to use when filtering the other data sources.
 * __viz__: Folder containing the data visualizations generated for the 'Common Analysis'
 
 ## Reproducing this analysis using hcds-a7-covid.ipynb
