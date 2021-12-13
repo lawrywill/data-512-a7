@@ -4,8 +4,8 @@
 The analysis documented in this repository focuses on how Cuyahoga County, Ohio has been disrupted by the pandemic. In this reposistory you'll find the results of the analysis, as well as all of the documentation and code necessary for reproducing the analysis. This analysis was produced as a series of assignments for DATA512 at the University of Washington:
 
 * __Assignment A4__: A collaborative analysis in which students in this class examined the impact of masking requirements on the spread of COVID-19 in a specific US county (in my case, Cuyahoga county, Ohio)
-* __Assignment A5__: An extension plan for A4. My extension plan focused on the impact of COVID-19 on unemployment in Cuyahoga.
-* __Assignment A6__: A presentation of the results of the analysis proposed in the extension plan.
+* __Assignment A5__: An extension plan for A4. My extension plan focused on the impact of COVID-19 on unemployment in Cuyahoga
+* __Assignment A6__: A presentation of the results of the analysis proposed in the extension plan
 * __Assignment A7__: A final report comprehensively documenting the entire process
 
 In order to understand the full scope and results of what was analyzed, I recommend starting with the 'Final Report' pdf.
